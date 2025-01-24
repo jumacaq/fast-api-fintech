@@ -1,0 +1,12 @@
+fast/
+# Ignora las carpetas de caché de Python
+__pycache__/   
+# Ignora los archivos compilados de Python
+*.pyc
+# Ignora los archivos ocultos de macOS          
+.DS_Store      
+*.log 
+# Ignorar archivos temporales
+*.tmp
+# Ignorar archivos de configuración local
+config.ini
